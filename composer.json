@@ -1,0 +1,18 @@
+{
+    "name": "alexandra-malihina/librarytest",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "AlexandraMalihina\\Librarytest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexandra M",
+            "email": "work.mal@mail.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
